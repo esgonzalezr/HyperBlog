@@ -7,3 +7,5 @@ Hoy hablaremos de su vida.
 Nació en bogotá en el año 91, y en el 2015 se graduó de la universidad Konrad Lorenz.
 
 Estudió ingeniería de sistemas pero comenzó a trabjar desde el 2013 siendio estudiante.
+
+La empresa se llamaba SQL software pero ahora se llama Softland
